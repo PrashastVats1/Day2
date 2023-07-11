@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day2\TypeChecking\TypeChecking\bin\Debug\TypeChecking.exe.config
+D:\Mphasis\Live Session\Day2\TypeChecking\TypeChecking\bin\Debug\TypeChecking.exe
+D:\Mphasis\Live Session\Day2\TypeChecking\TypeChecking\bin\Debug\TypeChecking.pdb
+D:\Mphasis\Live Session\Day2\TypeChecking\TypeChecking\obj\Debug\TypeChecking.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day2\TypeChecking\TypeChecking\obj\Debug\TypeChecking.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day2\TypeChecking\TypeChecking\obj\Debug\TypeChecking.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day2\TypeChecking\TypeChecking\obj\Debug\TypeChecking.exe
+D:\Mphasis\Live Session\Day2\TypeChecking\TypeChecking\obj\Debug\TypeChecking.pdb
