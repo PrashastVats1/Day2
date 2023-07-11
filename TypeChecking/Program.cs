@@ -50,6 +50,7 @@ namespace TypeChecking
             stringBuilder.Append(" string:\t " + mystr);
             Console.WriteLine(stringBuilder);
             */
+            /*
             for(int i = 0; i < 10; i++)
             {
                 if (i == 6)
@@ -59,6 +60,21 @@ namespace TypeChecking
                 Console.WriteLine("i value: {0}", i);
             }
         end: Console.WriteLine("The end");
+            */
+            //DateTime matchDate = new DateTime(day: 12, month: 08, year: 2025);
+            //DateTime currentDate = DateTime.Now;
+            //TimeSpan ts = matchDate.Subtract(currentDate);
+            //Console.WriteLine("Days Reamaining: " + ts.Days);
+            //Console.WriteLine("Hours Reamaining: " + ts.Hours);
+            //Console.WriteLine(ts.ToString());
+            TimeSpan duration = new TimeSpan(2, 15, 45);
+            Console.WriteLine($"Total Duration Hours: { duration.Hours} " +
+                $"Minutes: { duration.Minutes} Seconds: { duration.Seconds}");
+            TimeSpan t2 = new TimeSpan(4, 15, 46);
+            duration.Add(t2);
+            Console.WriteLine($"duration after adding {duration}");
+            Console.WriteLine($"Total Duration Hours: {duration.Hours} " +
+                $"Minutes: {duration.Minutes} Seconds: {duration.Seconds}");
             Console.ReadKey();
         }
     }
